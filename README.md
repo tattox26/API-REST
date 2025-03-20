@@ -3,3 +3,10 @@
  - Tener en cuenta el uso de POST, PUT, DELETE y GET.
  - Montar CRUD en plantilla básica de HTML y aplicar estilos (CSS)
  - Documentar
+
+
+
+# DEFAULT USER
+
+- EMAIL: admin@example.com 
+- PASSWORD: 123456,
